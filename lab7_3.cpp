@@ -11,7 +11,6 @@ char before(char x){
 	x -= 1;
 	return x;
 }
-
 int main(){
 	cout << before('A') << "\n";
 	cout << before('B') << "\n";
