@@ -8,8 +8,6 @@ int calculate_gear (int user_id){
     int gear_id = twoleftdigit - 12; 
     return gear_id;
 }
-
-
 int main (){
     cout << "Fahsai: Sawadee ka...Can you tell me your name?" << endl;
     cout << "?????: ";
